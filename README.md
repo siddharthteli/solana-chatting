@@ -1,2 +1,2 @@
 # solana-chatting
-A simple chatting application using solana &amp; aweave
+A simple chatting application using solana &amp; arweave
